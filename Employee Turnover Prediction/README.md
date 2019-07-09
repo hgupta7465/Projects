@@ -12,7 +12,7 @@ Gradient Boosting Trees, K-Nearest Neighbors, Logistic Regression and Support Ve
 
 The data has 14,999 examples (samples). Below are the features and the definitions of each one:
 
-satisfaction_level: Level of satisfaction {0–1}.\n
+satisfaction_level: Level of satisfaction {0–1}.
 last_evaluationTime: Time since last performance evaluation (in years).
 number_project: Number of projects completed while at work.
 average_montly_hours: Average monthly hours at workplace.
