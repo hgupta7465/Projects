@@ -1,0 +1,11 @@
+Automated image classification systems are essential in a world where visual information rules, such as security, healthcare, and entertainment. Because Convolutional Neural Networks (CNNs) can learn hierarchical representations directly from pixel input, they have become an effective tool for image categorization problems.
+
+Our goal in this project was to create an image classification system that will categorize facial photos into pre-established groups using CNNs. The project had multiple important phases, the first of which was gathering a dataset of face images with the OpenCV library and Python programs. A variety of data preprocessing approaches were used to improve the quality and diversity of the dataset, including splitting, shuffling, normalization, and data augmentation.
+
+Following that, a unique CNN architecture was created and put into use in order to extract features from the facial photos and categorize them. The architecture included dense layers for classification, max-pooling layers for spatial downsampling, and convolutional layers for feature extraction.
+
+A different test set was used to evaluate the trained model's performance in terms of accuracy, precision, recall, loss, and F1-score. The model's performance was further examined using visualizations like confusion matrices, training/validation accuracy, and loss plots.
+
+The outcomes showed how well the CNN-based image classification system classified facial images with accuracy. Nonetheless, shortcomings were noted, indicating directions for additional study and advancement.   
+
+All things considered, this effort adds to the expanding corpus of knowledge in computer vision and machine learning while demonstrating the potential of CNNs in image categorization problems.
